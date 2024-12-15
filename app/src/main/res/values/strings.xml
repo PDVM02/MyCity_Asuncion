@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Asuncion</string>
+    <string name="list_fragment_label">Asuncion</string>
+    <string name="detail_fragment_label">Asuncion Información</string>
+
+    <string name="palma">Calle Palma</string>
+    <string name="recova">Mercado de la Recova</string>
+    <string name="costanera">Avenida Costanera</string>
+    <string name="independencia">Casa de la Independecia</string>
+    <string name="sacro">Museo de Arte Sacro</string>
+
+    <string name="asuncion_subtitle_list">Un lugar incomparable, esperandote para tu visita con alegria</string>
+    <string name="asuncion_detail_text">
+        La calle Palma es una de las arterias más reconocidas por los asuncenos,
+        abarca en sus 11 cuadras toda la zona del microcentro capitalino.
+        Hasta mediados de los años 90, fue considerada como el principal centro comercial de la ciudad con tiendas ubicadas en toda su extensión,
+        hoy convertidas en cafés y restaurantes de comida rápida.
+        \n\n
+        El Mercado de la Recova es uno de los primeros centros comerciales de la ciudad.
+        Este edificio construido en el siglo XIX a pasos del ex puerto de Asunción,
+        fue erigido con el fin de ofrecer sus productos a los extranjeros que llegaban en barco.
+        Hoy en día, esta gran galería de estilo colonial sirve a los artesanos para exhibir
+        sus impresionantes artesanías.
+        \n\n
+        Un paseo en bici no le viene mal a nadie,
+        especialmente si se trata de recorrer la avenida Costanera disfrutando de sus cálidos atardeceres sobre la bahía de Asunción.
+        Al inicio del trayecto, podés tomar una foto frente al emblemático Palacio de López,
+        sede del gobierno y despacho del presidente de la República.
+        \n\n
+        Conocer la historia del Paraguay no estaría completa sin antes visitar la Casa de la Independencia.
+        Desde este simbólico lugar, los próceres de la patria partieron la noche del 14 de mayo de
+        1811 para reclamar su independencia de España.
+        \n\n
+        El Museo de Arte Sacro posee una colección permanente de obras de arte religioso talladas
+        en madera por los guaraníes y conservadas en su estado original.
+    </string>
+
+    <plurals name="estrellas_value">
+        <item quantity="one">1 Estrella</item>
+        <item quantity="other">%1$d Estrellas</item>
+    </plurals>
+    <string name="city">Asunción</string>
+
+    <string name="back_button">Atras</string>
+</resources>
